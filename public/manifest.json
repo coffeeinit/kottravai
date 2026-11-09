@@ -1,0 +1,25 @@
+{
+  "name": "Kottravai - Empowering Women's Movement",
+  "short_name": "Kottravai",
+  "description": "Women's empowerment organization dedicated to supporting and uplifting women",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["non-profit", "women's rights", "empowerment"],
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+} 
